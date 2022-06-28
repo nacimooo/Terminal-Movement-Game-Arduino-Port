@@ -5,6 +5,7 @@ A port of the terminal movement game for Arduino Uno
 very simple setup, if you know how to make pullupdown reasistors for buttons, then half the work is done.
   - button 1 is set to pin 4.
   - button 2 is set to pin 7.
+
 The LCD display uses the I2C bus on the Arduino UNO to run it.
 
 # photos of the setup
